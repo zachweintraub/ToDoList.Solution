@@ -4126,7 +4126,7 @@
       ]
     },
     "System.Private.DataContractSerialization/4.1.1": {
-      "sha512": "zfMSSsapy1T6v97gVCE3TmE61ccVCzPXqMhp8ykbiNy8Fsh4jDW0SnO6vIJTR1C7ZpwOkfoZLHPI4mwVbVgONA==",
+      "sha512": "lcqFBUaCZxPiUkA4dlSOoPZGtZsAuuElH2XHgLwGLxd7ZozWetV5yiz0qGAV2AUYOqw97MtZBjbLMN16Xz4vXA==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.1.1",
       "files": [
@@ -4909,7 +4909,7 @@
       ]
     },
     "System.Runtime.Serialization.Json/4.0.2": {
-      "sha512": "/id+d8iVzgQxdGGJfaRw9q11/a+86TVe6frUqU/qEEb6j94/nWY3LzuHgWEDRvDL+Bn7kD6lt6NLpAeW8G89wg==",
+      "sha512": "+7DIJhnKYgCzUgcLbVTtRQb2l1M0FP549XFlFkQM5lmNiUBl44AfNbx4bz61xA8PzLtlYwfmif4JJJW7MPPnjg==",
       "type": "package",
       "path": "system.runtime.serialization.json/4.0.2",
       "files": [
@@ -5662,7 +5662,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.0.11": {
-      "sha512": "F+CaXXethY00OithR1Unss4U/erSjFkzA3oyWwbMrMUh6N1Xm5uf6zzmyRZYBFY/t+z9Sm7tPcfdnZqjIp81YA==",
+      "sha512": "FrazwwqfIXTfq23mfv4zH+BjqkSFNaNFBtjzu3I9NRmG8EELYyrv/fJnttCIwRMFRR/YKXF1hmsMmMEnl55HGw==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.0.11",
       "files": [
@@ -5829,11 +5829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/ToDoListCS/ToDoList.Tests/ToDoList.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/To-Do-List/ToDoList.Tests/ToDoList.Tests.csproj",
       "projectName": "ToDoList.Tests",
-      "projectPath": "/Users/Guest/Desktop/ToDoListCS/ToDoList.Tests/ToDoList.Tests.csproj",
+      "projectPath": "/Users/Guest/Desktop/To-Do-List/ToDoList.Tests/ToDoList.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/ToDoListCS/ToDoList.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/To-Do-List/ToDoList.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5850,8 +5850,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/Guest/Desktop/ToDoListCS/ToDoList/ToDoList.csproj": {
-              "projectPath": "/Users/Guest/Desktop/ToDoListCS/ToDoList/ToDoList.csproj"
+            "/Users/Guest/Desktop/To-Do-List/ToDoList/ToDoList.csproj": {
+              "projectPath": "/Users/Guest/Desktop/To-Do-List/ToDoList/ToDoList.csproj"
             }
           }
         }

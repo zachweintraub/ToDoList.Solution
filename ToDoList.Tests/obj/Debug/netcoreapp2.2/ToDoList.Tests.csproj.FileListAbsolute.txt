@@ -32,3 +32,9 @@
 /Users/Guest/Desktop/ToDoListCS/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.dll
 /Users/Guest/Desktop/ToDoListCS/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.pdb
 /Users/Guest/Desktop/ToDoListCS/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/To-Do-List/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/To-Do-List/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/To-Do-List/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/To-Do-List/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/To-Do-List/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.dll
+/Users/Guest/Desktop/To-Do-List/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.pdb
