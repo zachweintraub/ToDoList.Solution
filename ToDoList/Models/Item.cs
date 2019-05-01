@@ -7,11 +7,13 @@ namespace ToDoList.Models
   {
       private string _description;
       private static List<Item> _instances = new List<Item>{};
+      private int _id;
 
       public Item (string description)
       {
           _description = description;
           _instances.Add(this);
+          _id = _instances.Count;
       }
       public string GetDescription()
       {
@@ -25,9 +27,20 @@ namespace ToDoList.Models
       {
           _instances.Clear();
       }
-      public void SetDescription(string newDiscription)
+
+      public static Item Find(int id)
       {
-        _description = newDiscription;
+        return _instances[id-1];
+      }
+
+      public void SetDescription(string newDescription)
+      {
+        _description = newDescription;
+      }
+
+      public int GetId()
+      {
+        return _id;
       }
   }
 }
